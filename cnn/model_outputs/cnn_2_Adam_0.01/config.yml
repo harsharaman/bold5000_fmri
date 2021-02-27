@@ -1,0 +1,7 @@
+batch_size: 2
+early_stopping: 40
+epochs: 100
+lr: 0.01
+num_workers: 6
+optimizer: Adam
+weight_decay: 0.0001
